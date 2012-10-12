@@ -14,7 +14,7 @@
  *
  * This file MUST be included before JQuery or Sizzle is loaded
  *
- * Refer to http://blog.mattheworiordan.com/post/9308775285 for more info
+ * Refer to https://github.com/mattheworiordan/jquery-focus-selenium-webkit-fix for more info
  *
  **/
 
